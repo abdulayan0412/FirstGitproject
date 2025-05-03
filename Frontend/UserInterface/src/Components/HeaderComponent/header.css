@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content:center;
+    background-color: black;
+    height: 50px;
+    align-items: center;
+}
+.first{
+    width: 45%;
+    color: white;
+}
+.links{
+    display: flex;
+    justify-content:flex-end;
+    gap: 20px;
+    width: 35%;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
